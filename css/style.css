@@ -1,0 +1,34 @@
+body {
+  margin: 0;
+}
+
+h1 {
+  margin: inherit;
+  padding-top: calc(15vh + 20px);
+  display: flex;
+  justify-content: center;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 2rem;
+}
+
+.socialMediaIcons  {
+  margin: inherit;
+}
+
+.heroBG {
+  height: 100vh;
+  background: url(../images/divingBackground.jpg);
+  background-size: cover;
+  background-position: center;
+  position: relative;
+  background-attachment: fixed;
+}
+
+
+.footerNotice {
+
+}
+
+
+/*font-family: 'Open Sans', sans-serif;*/
+/*font-family: 'Roboto', sans-serif;*/
